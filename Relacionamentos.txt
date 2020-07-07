@@ -1,0 +1,15 @@
+Relacionamento N:N com atributos
+Relacionamento faz com atributos(data e nota)
+O usuário pode fazer sugestões e dar uma nota sobre o serviço de aluguel do patenete
+---------------------------------------------
+Relacionamento 1:N não identificador
+Relacionamento possui com entidade regra e atributos id_regra e descricao
+O patinete tem regras para a sua utilização
+-----------------------------------------------------------------------
+Relacionamento 1:N identificador
+Relacionamento depende com atibutos id, nome e nascimento
+O usuário pode ter um dependente entre 16 e 18 anos para utilizar o patinete
+--------------------------------------------------------------------------------
+Relacionamento 1:N 
+Relacionamento é avalidado com atributos descricao, nota, id_avaliacao
+Os parceiros são obrigatóriamente avaliados pelo serviço prestado
